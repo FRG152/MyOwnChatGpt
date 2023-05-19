@@ -1,0 +1,29 @@
+{
+  "name": "my_own_ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconscout/react-unicons": "^2.0.2",
+    "animejs": "^3.2.1",
+    "framer-motion": "^10.12.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typed.js": "^2.0.16"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.2"
+  }
+}
